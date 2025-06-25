@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Castlewood Interiors</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Poppins:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/contact.css">
+    <link rel="stylesheet" href="css/footer.css">
+</head>
+
+<body>
+    <?php include('partials/header.php'); ?>
+
+    <!-- Contact Hero Section -->
+    <section class="contact-hero">
+        <div class="container">
+            <div class="contact-hero-content">
+                <h1>Contact Us</h1>
+                <p>We'd love to hear from you. Whether you have a question about our services, pricing, or anything
+                    else, our team is ready to answer all your questions.</p>
+                <a href="#contact-form" class="btn">Get in Touch</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Main Section -->
+    <section class="contact-main">
+        <div class="container">
+            <div class="contact-container">
+                <div class="contact-info" id="contact-info">
+                    <h3>Contact Information</h3>
+                    <ul class="contact-details">
+                        <li>
+                            <i class="fas fa-map-marker-alt"></i>
+                            <div>
+                                <h4>Our Office</h4>
+                                <p>123 Design Avenue, HSR Layout, Bangalore 560102</p>
+                            </div>
+                        </li>
+                        <li>
+                            <i class="fas fa-phone-alt"></i>
+                            <div>
+                                <h4>Phone Number</h4>
+                                <p>+91 98465 32383</p>
+                            </div>
+                        </li>
+                        <li>
+                            <i class="fas fa-envelope"></i>
+                            <div>
+                                <h4>Email Address</h4>
+                                <p>info@castlewoodinteriors.com</p>
+                            </div>
+                        </li>
+                        <li>
+                            <i class="fas fa-clock"></i>
+                            <div>
+                                <h4>Working Hours</h4>
+                                <p>Monday - Friday: 9:00 AM - 6:00 PM<br>
+                                    Saturday: 10:00 AM - 4:00 PM</p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="contact-form" id="contact-form">
+                    <h3>Send Us a Message</h3>
+                    <form action="send_contact.php" method="POST">
+                        <div class="form-group">
+                            <label for="contact-name">Your Name *</label>
+                            <input type="text" id="contact-name" name="name" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="contact-email">Your Email *</label>
+                            <input type="email" id="contact-email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="contact-phone">Your Phone *</label>
+                            <input type="tel" id="contact-phone" name="phone" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="contact-service">Service Interested In</label>
+                            <select id="contact-service" name="service">
+                                <option value="">Select a service</option>
+                                <option value="residential">Residential Design</option>
+                                <option value="commercial">Commercial Design</option>
+                                <option value="wardrobes">Wardrobes</option>
+                                <option value="kitchens">Modular Kitchens</option>
+                                <option value="furniture">Sofa & Decor</option>
+                                <option value="tv-units">TV Units</option>
+                                <option value="other">Other</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="contact-message">Your Message *</label>
+                            <textarea id="contact-message" name="message" required></textarea>
+                        </div>
+                        <button type="submit" class="form-submit">SEND MESSAGE</button>
+                    </form>
+                </div>
+            </div>
+
+            <div class="contact-map" id="contact-map">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3888.007168164785!2d77.6412773153466!3d12.971962990856607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae170b5f5f7d0d%3A0x9a3b4d1c3651a3a5!2sHSR%20Layout%2C%20Bengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1620000000000!5m2!1sen!2sin"
+                    allowfullscreen="" loading="lazy"></iframe>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact CTA Section -->
+    <section class="contact-cta">
+        <div class="container">
+            <h2>Ready to Transform Your Space?</h2>
+            <p>Our interior design experts are ready to bring your vision to life. Contact us today to schedule a
+                consultation.</p>
+            <a href="#contact-form" class="btn">Book a Consultation</a>
+        </div>
+    </section>
+
+    <?php include('partials/footer.php'); ?>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="js/contact.js"></script>
+</body>
+
+</html>
