@@ -22,7 +22,7 @@
                 <h3>Quick Links</h3>
                 <ul class="footer-links">
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="about.php">About Us</a></li>
+                    <li><a href="about-us.php">About Us</a></li>
                     <li><a href="services.php">Services</a></li>
                     <li><a href="portfolio.php">Portfolio</a></li>
                     <li><a href="contact.php">Contact</a></li>
@@ -45,11 +45,11 @@
                 <ul class="footer-contact">
                     <li>
                         <i class="fas fa-map-marker-alt"></i>
-                        <span>123 Design Street, Creative City, CC 10001</span>
+                        <span>usa</span>
                     </li>
                     <li>
                         <i class="fas fa-phone-alt"></i>
-                        <span>+1 (555) 123-4567</span>
+                        <span>+1 0000000000</span>
                     </li>
                     <li>
                         <i class="fas fa-envelope"></i>
@@ -60,7 +60,7 @@
         </div>
 
         <div class="footer-bottom">
-            <p>&copy; 2023 Castlewood Interiors. All Rights Reserved.</p>
+            <p>&copy; 2025 Castlewood Interiors. All Rights Reserved.</p>
         </div>
     </div>
 </footer>
