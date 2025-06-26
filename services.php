@@ -52,8 +52,7 @@
                 <!-- Residential Services -->
                 <div class="service-card" data-category="residential">
                     <div class="service-img">
-                        <!-- <img src="https://images.unsplash.com/photo-1617806118233-18e1de247200?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80"
-                            alt="Full Home Design" loading="lazy"> -->
+                        <img src="assests/services/p1.avif" alt="Full Home Design" loading="lazy">
                         <div class="service-badge">Residential</div>
                     </div>
                     <div class="service-content">
@@ -72,8 +71,7 @@
 
                 <div class="service-card" data-category="residential">
                     <div class="service-img">
-                        <img src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1558&q=80"
-                            alt="Kitchen Design" loading="lazy">
+                        <img src="assests/services/p2.jpg" alt="Kitchen Design" loading="lazy">
                         <div class="service-badge">Residential</div>
                     </div>
                     <div class="service-content">
@@ -92,8 +90,7 @@
                 <!-- Commercial Services -->
                 <div class="service-card" data-category="commercial">
                     <div class="service-img">
-                        <img src="https://images.unsplash.com/photo-1497366811353-6870744d04b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80"
-                            alt="Office Design" loading="lazy">
+                        <img src="assests/services/p3.jpg" alt="Office Design" loading="lazy">
                         <div class="service-badge">Commercial</div>
                     </div>
                     <div class="service-content">
@@ -111,8 +108,7 @@
 
                 <div class="service-card" data-category="commercial">
                     <div class="service-img">
-                        <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
-                            alt="Retail Design" loading="lazy">
+                        <img src="assests/services/p4.jpg" alt="Retail Design" loading="lazy">
                         <div class="service-badge">Commercial</div>
                     </div>
                     <div class="service-content">
@@ -131,8 +127,7 @@
                 <!-- Consultation Services -->
                 <div class="service-card" data-category="consultation">
                     <div class="service-img">
-                        <img src="https://images.unsplash.com/photo-1600121848594-d8644e57abab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
-                            alt="Design Consultation" loading="lazy">
+                        <img src="assests/services/p5.jpg" alt="Design Consultation" loading="lazy">
                         <div class="service-badge">Consultation</div>
                     </div>
                     <div class="service-content">
@@ -150,8 +145,7 @@
 
                 <div class="service-card" data-category="consultation">
                     <div class="service-img">
-                        <img src="https://images.unsplash.com/photo-1583845112203-2932990235b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80"
-                            alt="Virtual Design" loading="lazy">
+                        <img src="assests/services/p6.jpg" alt="Virtual Design" loading="lazy">
                         <div class="service-badge">Consultation</div>
                     </div>
                     <div class="service-content">

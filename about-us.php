@@ -62,8 +62,7 @@
         <div class="container">
             <div class="intro-container">
                 <div class="intro-img">
-                    <img src="https://images.unsplash.com/photo-1600121848594-d8644e57abab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
-                        alt="About Castlewood Interiors" loading="lazy">
+                    <img src="assests/index/s3.webp" alt="About Castlewood Interiors" loading="lazy">
                 </div>
                 <div class="intro-content">
                     <h2>Who We Are</h2>
