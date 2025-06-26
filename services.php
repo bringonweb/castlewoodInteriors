@@ -423,6 +423,7 @@
             mobileMenuBtn.addEventListener('click', () => {
                 navbar.classList.toggle('active');
                 document.body.classList.toggle('no-scroll');
+                console.log(navbar.classList);
                 mobileMenuBtn.innerHTML = navbar.classList.contains('active')
                     ? '<i class="fas fa-times"></i>'
                     : '<i class="fas fa-bars"></i>';

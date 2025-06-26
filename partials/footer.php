@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="/css/footer.css">
-
-<footer>
+<<footer>
     <div class="container">
         <div class="footer-container">
             <div class="footer-col">
@@ -69,25 +67,25 @@
             <p>&copy; 2025 Castlewood Interiors. All Rights Reserved.</p>
         </div>
     </div>
-</footer>
+    </footer>
 
-<style>
-    .footer-logo {
-        margin-bottom: 20px;
-    }
-
-    .footer-logo img {
-        max-width: 275px;
-        width: 100%;
-        height: auto;
-        display: block;
-    }
-
-    /* Optional: center the logo on mobile */
-    @media (max-width: 768px) {
+    <style>
         .footer-logo {
-            display: flex;
-            justify-content: center;
+            margin-bottom: 20px;
         }
-    }
-</style>
+
+        .footer-logo img {
+            max-width: 275px;
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        /* Optional: center the logo on mobile */
+        @media (max-width: 768px) {
+            .footer-logo {
+                display: flex;
+                justify-content: center;
+            }
+        }
+    </style>

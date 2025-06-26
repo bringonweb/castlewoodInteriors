@@ -114,7 +114,7 @@
 }
 
 /* Header Styles */
-.service-page header {
+/* .service-page header {
     position: fixed;
     top: 0;
     left: 0;
@@ -189,7 +189,7 @@
     font-size: 24px;
     cursor: pointer;
     color: var(--primary);
-}
+} */
 
 /* Service Hero Section */
 .service-page .service-hero {
@@ -737,7 +737,7 @@
 }
 
 @media (max-width: 768px) {
-    .service-page .mobile-menu-btn {
+    /* .service-page .mobile-menu-btn {
         display: block;
     }
 
@@ -764,7 +764,7 @@
         flex-direction: column;
         align-items: center;
         gap: 30px;
-    }
+    } */
 
     .service-page .hero-content h1 {
         font-size: 42px;

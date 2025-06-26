@@ -9,16 +9,6 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 
-    // Mobile menu functionality
-    const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
-    const nav = document.querySelector('nav');
-
-    if (mobileMenuBtn) {
-        mobileMenuBtn.addEventListener('click', () => {
-            nav.classList.toggle('active');
-            document.body.classList.toggle('no-scroll');
-        });
-    }
 
     // Stats counter animation
     const stats = document.querySelectorAll('.stat-number');

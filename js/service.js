@@ -1,29 +1,4 @@
 $(document).ready(function () {
-    // Mobile Menu Toggle with error handling
-    try {
-        const mobileMenuBtn = document.getElementById('mobileMenuBtn');
-        const navbar = document.getElementById('navbar');
-
-        if (mobileMenuBtn && navbar) {
-            mobileMenuBtn.addEventListener('click', () => {
-                navbar.classList.toggle('active');
-                document.body.classList.toggle('no-scroll');
-                mobileMenuBtn.innerHTML = navbar.classList.contains('active') ?
-                    '<i class="fas fa-times"></i>' : '<i class="fas fa-bars"></i>';
-            });
-
-            // Close menu when clicking outside
-            document.addEventListener('click', (e) => {
-                if (!navbar.contains(e.target) && !mobileMenuBtn.contains(e.target) && navbar.classList.contains('active')) {
-                    navbar.classList.remove('active');
-                    document.body.classList.remove('no-scroll');
-                    mobileMenuBtn.innerHTML = '<i class="fas fa-bars"></i>';
-                }
-            });
-        }
-    } catch (error) {
-        console.error('Error initializing mobile menu:', error);
-    }
 
     // Enhanced Service Category Filter with smoother transitions
     $('.category-tab').on('click', function () {
