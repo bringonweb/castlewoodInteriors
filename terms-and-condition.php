@@ -152,21 +152,21 @@
                 });
             });
 
-            // Close mobile menu when clicking outside
-            document.addEventListener('click', (e) => {
-                if (navbar.classList.contains('active') &&
-                    !navbar.contains(e.target) &&
-                    !mobileMenuBtn.contains(e.target)) {
-                    navbar.classList.remove('active');
-                    document.body.classList.remove('no-scroll');
-                    mobileMenuBtn.innerHTML = '<i class="fas fa-bars"></i>';
+            // // Close mobile menu when clicking outside
+            // document.addEventListener('click', (e) => {
+            //     if (navbar.classList.contains('active') &&
+            //         !navbar.contains(e.target) &&
+            //         !mobileMenuBtn.contains(e.target)) {
+            //         navbar.classList.remove('active');
+            //         document.body.classList.remove('no-scroll');
+            //         mobileMenuBtn.innerHTML = '<i class="fas fa-bars"></i>';
 
-                    // Close all dropdowns
-                    document.querySelectorAll('.has-dropdown').forEach(item => {
-                        item.classList.remove('active');
-                    });
-                }
-            });
+            //         // Close all dropdowns
+            //         document.querySelectorAll('.has-dropdown').forEach(item => {
+            //             item.classList.remove('active');
+            //         });
+            //     }
+            // });
 
             // Close mobile menu when clicking on a link (except dropdown toggles)
             Array.from(navLinks).forEach(link => {
