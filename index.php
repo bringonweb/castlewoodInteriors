@@ -179,8 +179,7 @@
         <div class="container">
             <div class="about-container">
                 <div class="about-img">
-                    <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80"
-                        alt="About Castlewood Interiors" loading="lazy">
+                    <img src="assests/index/h1.webp" alt=" About Castlewood Interiors" loading="lazy">
                 </div>
                 <div class="about-content">
                     <h2>About Castlewood Interiors</h2>
@@ -226,8 +225,7 @@
             <div class="services-grid">
                 <div class="service-card">
                     <div class="service-img">
-                        <img src="https://images.unsplash.com/photo-1586023492125-27b2c045efd7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1558&q=80"
-                            alt="Residential Design" loading="lazy">
+                        <img src="assests/index/s1.webp" alt="Residential Design" loading="lazy">
                     </div>
                     <div class="service-content">
                         <h3>Residential Design</h3>
@@ -239,8 +237,7 @@
 
                 <div class="service-card">
                     <div class="service-img">
-                        <img src="https://images.unsplash.com/photo-1497366811353-6870744d04b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80"
-                            alt="Commercial Design" loading="lazy">
+                        <img src="assests/index/p4.webp" alt="Commercial Design" loading="lazy">
                     </div>
                     <div class="service-content">
                         <h3>Commercial Design</h3>
@@ -252,8 +249,7 @@
 
                 <div class="service-card">
                     <div class="service-img">
-                        <img src="https://images.unsplash.com/photo-1600121848594-d8644e57abab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
-                            alt="Space Planning" loading="lazy">
+                        <img src="assests/index/s3.webp" alt="Space Planning" loading="lazy">
                     </div>
                     <div class="service-content">
                         <h3>Space Planning</h3>
@@ -283,8 +279,7 @@
 
             <div class="portfolio-grid">
                 <div class="portfolio-item" data-category="residential">
-                    <img src="https://images.unsplash.com/photo-1617806118233-18e1de247200?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80"
-                        alt="Modern Apartment" class="portfolio-img" loading="lazy">
+                    <img src="assests/index/p1.webp" alt="Modern Apartment" class="portfolio-img" loading="lazy">
                     <div class="portfolio-overlay">
                         <h3>Modern Apartment</h3>
                         <p>New York, USA</p>
@@ -292,8 +287,7 @@
                 </div>
 
                 <div class="portfolio-item" data-category="commercial">
-                    <img src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80"
-                        alt="Corporate Office" class="portfolio-img" loading="lazy">
+                    <img src="assests/index/p2.webp" alt="Corporate Office" class="portfolio-img" loading="lazy">
                     <div class="portfolio-overlay">
                         <h3>Corporate Office</h3>
                         <p>London, UK</p>
@@ -301,8 +295,7 @@
                 </div>
 
                 <div class="portfolio-item" data-category="residential">
-                    <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80"
-                        alt="Luxury Villa" class="portfolio-img" loading="lazy">
+                    <img src="assests/index/h1.webp" alt="Luxury Villa" class="portfolio-img" loading="lazy">
                     <div class="portfolio-overlay">
                         <h3>Luxury Villa</h3>
                         <p>Miami, USA</p>
@@ -310,8 +303,7 @@
                 </div>
 
                 <div class="portfolio-item" data-category="hospitality">
-                    <img src="https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
-                        alt="Boutique Hotel" class="portfolio-img" loading="lazy">
+                    <img src="assests/index/p4.webp" alt="Boutique Hotel" class="portfolio-img" loading="lazy">
                     <div class="portfolio-overlay">
                         <h3>Boutique Hotel</h3>
                         <p>Paris, France</p>
@@ -319,8 +311,7 @@
                 </div>
 
                 <div class="portfolio-item" data-category="commercial">
-                    <img src="https://images.unsplash.com/photo-1497366811353-6870744d04b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80"
-                        alt="Co-working Space" class="portfolio-img" loading="lazy">
+                    <img src="assests/index/p5.webp" alt="Co-working Space" class="portfolio-img" loading="lazy">
                     <div class="portfolio-overlay">
                         <h3>Co-working Space</h3>
                         <p>Berlin, Germany</p>
@@ -328,8 +319,7 @@
                 </div>
 
                 <div class="portfolio-item" data-category="residential">
-                    <img src="https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1587&q=80"
-                        alt="Penthouse" class="portfolio-img" loading="lazy">
+                    <img src="assests/index/p6  .webp" alt="Penthouse" class="portfolio-img" loading="lazy">
                     <div class="portfolio-overlay">
                         <h3>Penthouse</h3>
                         <p>Dubai, UAE</p>
@@ -349,7 +339,7 @@
 
             <div class="testimonials-slider">
                 <div class="testimonial-card">
-                    <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/t1.jpg" alt="Client" class="client-img">
                     <p>"Working with Castlewood was an absolute pleasure. They transformed our outdated living room into
                         a modern, functional space that we love spending time in. Their attention to detail is
                         unmatched."
@@ -359,7 +349,7 @@
                 </div>
 
                 <div class="testimonial-card">
-                    <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/t2.jpg" alt="Client" class="client-img">
                     <p>"The team at Castlewood understood our brand perfectly and created an office space that reflects
                         our company culture while maximizing productivity. The project was completed on time and within
                         budget."
@@ -369,7 +359,7 @@
                 </div>
 
                 <div class="testimonial-card">
-                    <img src="https://randomuser.me/api/portraits/women/68.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/t3.jpg" alt="Client" class="client-img">
                     <p>"I was hesitant about hiring an interior designer, but Castlewood made the process so easy. They
                         listened to my needs and delivered a kitchen design that's both beautiful and practical for my
                         family."</p>
@@ -378,7 +368,7 @@
                 </div>
 
                 <div class="testimonial-card">
-                    <img src="https://randomuser.me/api/portraits/men/75.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/t4.jpg" alt="Client" class="client-img">
                     <p>"Our boutique hotel needed a complete redesign, and Castlewood delivered beyond our expectations.
                         The rooms are now frequently featured on Instagram by our guests!"</p>
                     <h4 class="client-name">David Wilson</h4>

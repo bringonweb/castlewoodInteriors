@@ -225,7 +225,7 @@ nav ul li a:hover:after {
 .hero {
     /* height: 100vh; */
     min-height: 700px;
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../assests/index/h1.webp') no-repeat center center / cover;
     display: flex;
     align-items: center;
     color: var(--white);
@@ -791,7 +791,7 @@ nav ul li a:hover:after {
 /* CTA Section */
 .cta {
     padding: 100px 0;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../assests/index/f1.webp') no-repeat center center/cover;
     color: var(--white);
     text-align: center;
 }
