@@ -18,7 +18,7 @@
 </head>
 
 <body>
-    <?php include('partials/header.php'); ?>
+
 
     <section class="thankyou-section">
         <div class="thankyou-bg"></div>
@@ -45,7 +45,7 @@
         </div>
     </section>
 
-    <!-- <?php include('partials/footer.php'); ?> -->
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="js/thank-you.js"></script>
 </body>

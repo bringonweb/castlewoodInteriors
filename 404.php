@@ -22,7 +22,7 @@ http_response_code(404);
 </head>
 
 <body>
-  <?php include('partials/header.php'); ?>
+
 
 
   <!-- 404 Content -->
@@ -37,7 +37,7 @@ http_response_code(404);
     </div>
   </main>
 
-  <?php include('partials/footer.php'); ?>
+
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="js/404.js"></script>
 </body>

@@ -52,8 +52,8 @@
                 <!-- Residential Services -->
                 <div class="service-card" data-category="residential">
                     <div class="service-img">
-                        <img src="https://images.unsplash.com/photo-1617806118233-18e1de247200?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80"
-                            alt="Full Home Design" loading="lazy">
+                        <!-- <img src="https://images.unsplash.com/photo-1617806118233-18e1de247200?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80"
+                            alt="Full Home Design" loading="lazy"> -->
                         <div class="service-badge">Residential</div>
                     </div>
                     <div class="service-content">
@@ -404,6 +404,7 @@
     <?php include('partials/footer.php'); ?>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="js/service.js"></script>
+    <script src="js/header.js"></script>
 </body>
 
 </html>
