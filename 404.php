@@ -16,9 +16,9 @@ http_response_code(404);
     rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <link rel="stylesheet" href="css/common.css">
-  <link rel="stylesheet" href="css/header.css">
+  <!-- <link rel="stylesheet" href="css/header.css"> -->
   <link rel="stylesheet" href="css/404.css">
-  <link rel="stylesheet" href="css/footer.css">
+  <!-- <link rel="stylesheet" href="css/footer.css"> -->
 </head>
 
 <body>

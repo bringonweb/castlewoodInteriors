@@ -21,22 +21,23 @@
             <div class="footer-col">
                 <h3>Quick Links</h3>
                 <ul class="footer-links">
-                    <li><a href="index.php">Home</a></li>
                     <li><a href="about-us.php">About Us</a></li>
                     <li><a href="services.php">Services</a></li>
-                    <li><a href="portfolio.php">Portfolio</a></li>
-                    <li><a href="contact.php">Contact</a></li>
+                    <li><a href="contact-us.php">Contact</a></li>
+                    <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                    <li><a href="refund-policy.php">Refund Policy</a></li>
+                    <li><a href="terms-and-condition.php">Terms & Conditions</a></li>
                 </ul>
             </div>
 
             <div class="footer-col">
                 <h3>Services</h3>
                 <ul class="footer-links">
-                    <li><a href="#">Residential Design</a></li>
-                    <li><a href="#">Commercial Design</a></li>
-                    <li><a href="#">Space Planning</a></li>
-                    <li><a href="#">Custom Furniture</a></li>
-                    <li><a href="#">Lighting Design</a></li>
+                    <li><a href="services.php">Residential Design</a></li>
+                    <li><a href="services.php">Commercial Design</a></li>
+                    <li><a href="services.php">Space Planning</a></li>
+                    <li><a href="services.php">Custom Furniture</a></li>
+                    <li><a href="services.php">Lighting Design</a></li>
                 </ul>
             </div>
 

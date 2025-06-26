@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="css/header.css">
-<script defer src="js/header.js"></script>
+<!-- <script defer src="js/header.js"></script> -->
 
 <header id="header">
     <div class="container header-container">
@@ -13,7 +13,7 @@
             <ul>
                 <li><a href="index.php" class="active">Home</a></li>
                 <li><a href="about-us.php">About</a></li>
-                <!-- <li><a href="services.php">Services</a></li> -->
+                <li><a href="services.php">Services</a></li>
                 <li class="has-dropdown">
                     <a href="#" class="dropdown-toggle">
                         Policies <i class="fas fa-chevron-down"></i>
