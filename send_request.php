@@ -2,13 +2,12 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-// Include PHPMailer library files
-require 'PHPMailer/src/PHPMailer.php';
-require 'PHPMailer/src/SMTP.php';
-require 'PHPMailer/src/Exception.php';
+require 'PHPMailer/Exception.php';
+require 'PHPMailer/PHPMailer.php';
+require 'PHPMailer/SMTP.php';
 
 // Admin Email
-$adminEmail = 'admin@castlewoodinteriors.com';
+$adminEmail = 'adityagupta80041@gmail.com';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Get and sanitize form inputs
@@ -27,10 +26,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     try {
         // SMTP configuration
         $mail->isSMTP();
-        $mail->Host = 'smtp.yourdomain.com'; // e.g. smtp.gmail.com
+        $mail->Host = 'smtp.gmail.com'; // e.g. smtp.gmail.com
         $mail->SMTPAuth = true;
-        $mail->Username = 'your_email@yourdomain.com'; // Your SMTP email
-        $mail->Password = 'your_email_password';       // App password or email password
+        $mail->Username = 'adityagupta80041@gmail.com'; // Your SMTP email
+        $mail->Password = 'zpzlkerohziiaouu';       // App password or email password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; // Or ENCRYPTION_SMTPS
         $mail->Port = 587; // 465 if using SMTPS
 

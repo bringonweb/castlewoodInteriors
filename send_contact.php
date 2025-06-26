@@ -1,20 +1,23 @@
 <?php
+// Enable error reporting
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-// Load Composer's autoloader or manually include PHPMailer
-require 'PHPMailer/src/Exception.php';
-require 'PHPMailer/src/PHPMailer.php';
-require 'PHPMailer/src/SMTP.php';
+require 'PHPMailer/Exception.php';
+require 'PHPMailer/PHPMailer.php';
+require 'PHPMailer/SMTP.php'
 
 // DB Config
 $host = 'localhost';
-$db = 'your_database_name';
-$user = 'your_db_username';
-$pass = 'your_db_password';
+$db = 'u747777525_Castlewoodweb';
+$user = 'u747777525_Castlewoodweb';
+$pass = 'Castlewood@12!';
 
 // Admin email
-$adminEmail = 'admin@castlewoodinteriors.com';
+$adminEmail = 'adityagupta80041@gmail.com';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     // Sanitize input
@@ -48,10 +51,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     try {
         // SMTP configuration
         $mail->isSMTP();
-        $mail->Host = 'smtp.yourmailhost.com'; // e.g., smtp.gmail.com
+        $mail->Host = 'smtp.gmail.com'; // e.g., smtp.gmail.com
         $mail->SMTPAuth = true;
-        $mail->Username = 'your_smtp_email@example.com';
-        $mail->Password = 'your_email_password_or_app_password';
+        $mail->Username = 'adityagupta80041@gmail.com';
+        $mail->Password = 'zpzlkerohziiaouu';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; // Or PHPMailer::ENCRYPTION_SMTPS
         $mail->Port = 587; // Or 465 for SMTPS
 
