@@ -238,7 +238,7 @@ nav ul li a:hover:after {
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    margin-top: 4rem;
+    /* margin-top: 4rem; */
 }
 
 .hero-content {
@@ -579,7 +579,7 @@ nav ul li a:hover:after {
 }
 
 .filter-btn {
-    padding: 8px 20px;
+    padding: 8px 12px;
     background-color: transparent;
     border: 1px solid #ddd;
     border-radius: 30px;
@@ -967,7 +967,7 @@ footer {
 @media (max-width: 992px) {
     .hero-container {
         flex-direction: column;
-        padding-top: 100px;
+        padding-top: 45px;
         padding-bottom: 50px;
     }
 

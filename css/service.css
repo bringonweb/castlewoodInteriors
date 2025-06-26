@@ -201,7 +201,7 @@
     color: var(--white);
     position: relative;
     overflow: hidden;
-    margin-top: 80px;
+    /* margin-top: 80px; */
 }
 
 .service-page .hero-content {
@@ -793,7 +793,7 @@
     }
 
     .service-page .category-tabs {
-        flex-direction: column;
+        flex-direction: row;
         align-items: center;
     }
 }

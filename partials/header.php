@@ -5,7 +5,7 @@
     <div class="container header-container">
         <!-- Logo -->
         <a href="index.php" class="logo">
-            <img src="assests/logo.jpg" alt="Castlewood Interiors Logo" class="logo-img">
+            <img src="assests/logo.png" alt="Castlewood Interiors Logo" class="logo-img">
         </a>
 
         <!-- Navigation -->

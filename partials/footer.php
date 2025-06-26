@@ -8,14 +8,13 @@
                     <h1>CASTLEWOOD</h1>
                     <p>Interiors Design</p>
                 </div> -->
+                <div class="footer-logo">
+                    <a href="/index.php"></a>
+                    <img src="assests/logo.png" alt="Castlewood Interiors Logo"></a>
+                </div>
                 <p>Creating beautiful, functional spaces that inspire and delight. Our team of expert designers is
                     dedicated to bringing your vision to life.</p>
-                <div class="social-links">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
-                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                </div>
+
             </div>
 
             <div class="footer-col">
@@ -57,6 +56,12 @@
                         <span>info@castlewoodinteriors.com</span>
                     </li>
                 </ul>
+                <div class="social-links">
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-pinterest-p"></i></a>
+                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                </div>
             </div>
         </div>
 
@@ -65,3 +70,24 @@
         </div>
     </div>
 </footer>
+
+<style>
+    .footer-logo {
+        margin-bottom: 20px;
+    }
+
+    .footer-logo img {
+        max-width: 275px;
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    /* Optional: center the logo on mobile */
+    @media (max-width: 768px) {
+        .footer-logo {
+            display: flex;
+            justify-content: center;
+        }
+    }
+</style>

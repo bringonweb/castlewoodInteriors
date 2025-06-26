@@ -195,7 +195,7 @@ nav ul li a:hover:after {
     color: var(--white);
     position: relative;
     overflow: hidden;
-    margin-top: 80px;
+    /* margin-top: 80px; */
 }
 
 .banner-content {

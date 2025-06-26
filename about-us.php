@@ -156,56 +156,89 @@
     <section class="why-choose-us">
         <div class="container">
             <div class="section-title">
-                <h2>Why Choose Us</h2>
+                <h2>Why Choose CASTLEWOOD Interiors</h2>
                 <p>What makes Castlewood Interiors the preferred choice for your design needs</p>
             </div>
 
             <div class="features-container">
                 <div class="features-img">
-                    <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80"
-                        alt="Why Choose Castlewood Interiors" loading="lazy">
+                    <!-- <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80" -->
+                    <img src="assests/about/whychoose.jpg" alt="Why Choose Castlewood Interiors" loading="lazy">
                 </div>
                 <div class="features-list">
                     <div class="feature-item">
                         <div class="feature-icon">
-                            <i class="fas fa-award"></i>
+                            <i class="fas fa-palette"></i> <!-- Paint palette -->
                         </div>
                         <div class="feature-text">
-                            <h4>Award-Winning Designs</h4>
-                            <p>Our work has been recognized by prestigious design awards for innovation and excellence.
+                            <h4>Design That Reflects You</h4>
+                            <p>We don’t believe in one-size-fits-all. Every space we design is a reflection of your
+                                personality, lifestyle, and aspirations—crafted with precision and soul.
                             </p>
                         </div>
                     </div>
 
                     <div class="feature-item">
                         <div class="feature-icon">
-                            <i class="fas fa-users"></i>
+                            <i class="fas fa-comments-dollar"></i>
                         </div>
                         <div class="feature-text">
-                            <h4>Client-Centric Approach</h4>
-                            <p>We prioritize your needs and preferences, ensuring the final design reflects your vision.
+                            <h4>Free Home Consultation</h4>
+                            <p>Our experts visit your space to understand your needs, offer creative insights, and plan
+                                solutions—absolutely free.
                             </p>
                         </div>
                     </div>
 
                     <div class="feature-item">
                         <div class="feature-icon">
-                            <i class="fas fa-clock"></i>
+                            <i class="fas fa-tasks"></i>
                         </div>
                         <div class="feature-text">
-                            <h4>Timely Delivery</h4>
-                            <p>We respect your time and complete projects within agreed timelines without compromising
-                                quality.</p>
+                            <h4>End-to-End Project Execution</h4>
+                            <p>From layout planning and sourcing materials to supervision and final touches—we manage
+                                everything so you can relax and enjoy the transformation.</p>
                         </div>
                     </div>
 
                     <div class="feature-item">
                         <div class="feature-icon">
-                            <i class="fas fa-rupee-sign"></i>
+                            <i class="fas fa-broom"></i>
                         </div>
                         <div class="feature-text">
-                            <h4>Transparent Pricing</h4>
-                            <p>No hidden costs. We provide detailed estimates and stick to the agreed budget.</p>
+                            <h4>Deep Cleaning After Work Completion</h4>
+                            <p>We design and deliver bespoke furniture, modular units, and curated decor to perfectly
+                                match your interiors.</p>
+                        </div>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <i class="fas fa-puzzle-piece"></i>
+                        </div>
+                        <div class="feature-text">
+                            <h4>Customized Furniture & Decor</h4>
+                            <p>We design and deliver bespoke furniture, modular units, and curated decor to perfectly
+                                match your interiors.</p>
+                        </div>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <i class="fas fa-calendar-check"></i>
+                        </div>
+                        <div class="feature-text">
+                            <h4>On-Time Delivery Promise</h4>
+                            <p>We value your time. Our team follows strict timelines with regular updates and
+                                transparent communication.</p>
+                        </div>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">
+                            <i class="fas fa-hands-helping"></i>
+                        </div>
+                        <div class="feature-text">
+                            <h4>Aftercare & Support </h4>
+                            <p>Our relationship doesn’t end with project handover. We offer post-completion assistance
+                                and support for any touch-ups or tweaks you need.</p>
                         </div>
                     </div>
                 </div>
