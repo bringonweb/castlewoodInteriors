@@ -1,13 +1,17 @@
 # Turn on the URL rewriting engine
 RewriteEngine On
 
+# Force HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Force www with HTTPS
+RewriteCond %{HTTP_HOST} !^www\. [NC]
+RewriteRule ^(.*)$ https://www.%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
 # Redirect 'index.php' to the root
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,}\s/index\.php [NC]
 RewriteRule ^index\.php$ / [R=301,L]
-
-# Force www in the domain
-RewriteCond %{HTTP_HOST} !^www\.
-RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 
 # Remove .php extension from URLs
 RewriteCond %{REQUEST_FILENAME} !-d
@@ -16,3 +20,11 @@ RewriteRule ^(.*)$ $1.php [L]
 
 # Custom 404 page
 ErrorDocument 404 /404.php
+
+# Protect against XSS and other vulnerabilities
+<IfModule mod_headers.c>
+    Header set X-XSS-Protection "1; mode=block"
+    Header set X-Content-Type-Options "nosniff"
+    Header set X-Frame-Options "SAMEORIGIN"
+    Header set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+</IfModule>
