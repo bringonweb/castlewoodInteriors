@@ -27,7 +27,7 @@
                 <h1>Contact Us</h1>
                 <p>We'd love to hear from you. Whether you have a question about our services, pricing, or anything
                     else, our team is ready to answer all your questions.</p>
-                <a href="#contact-form" class="btn">Get in Touch</a>
+                <a href="tel:+916361661047" class="btn">Get in Touch</a>
             </div>
         </div>
     </section>
@@ -43,14 +43,14 @@
                             <i class="fas fa-map-marker-alt"></i>
                             <div>
                                 <h4>Our Office</h4>
-                                <p>123 Design Avenue, HSR Layout, Bangalore 560102</p>
+                                <p>A-411, 17th Cross Rd, Begur, Bengaluru, Karnataka 560068</p>
                             </div>
                         </li>
                         <li>
                             <i class="fas fa-phone-alt"></i>
                             <div>
                                 <h4>Phone Number</h4>
-                                <p>+91 98465 32383</p>
+                                <p>+91 63616 61047</p>
                             </div>
                         </li>
                         <li>
@@ -122,7 +122,7 @@
             <h2>Ready to Transform Your Space?</h2>
             <p>Our interior design experts are ready to bring your vision to life. Contact us today to schedule a
                 consultation.</p>
-            <a href="#contact-form" class="btn">Book a Consultation</a>
+            <a href="tel:+916361661047" class="btn">Book a Consultation</a>
         </div>
     </section>
 

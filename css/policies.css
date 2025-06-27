@@ -121,6 +121,7 @@ a:hover {
     margin-bottom: 10px;
     position: relative;
     padding-left: 20px;
+    list-style: none;
 }
 
 .policy-section li:before {

@@ -27,7 +27,7 @@
                 <h1>Our Premium Interior Services</h1>
                 <p>Transform your space with our comprehensive interior design solutions tailored to your unique style
                     and needs. From concept to completion, we bring your vision to life.</p>
-                <a href="contact.php" class="btn">Get Free Consultation</a>
+                <a href="contact-us.php" class="btn">Get Free Consultation</a>
             </div>
         </div>
     </section>
@@ -65,7 +65,7 @@
                             <li><i class="fas fa-check"></i> Custom furniture design</li>
                             <li><i class="fas fa-check"></i> Lighting design</li>
                         </ul>
-                        <a href="#" class="btn btn-outline">Learn More</a>
+                        <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
                 </div>
 
@@ -83,7 +83,7 @@
                             <li><i class="fas fa-check"></i> Countertop solutions</li>
                             <li><i class="fas fa-check"></i> Appliance integration</li>
                         </ul>
-                        <a href="#" class="btn btn-outline">Learn More</a>
+                        <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
                 </div>
 
@@ -102,7 +102,7 @@
                             <li><i class="fas fa-check"></i> Acoustics & lighting</li>
                             <li><i class="fas fa-check"></i> Brand integration</li>
                         </ul>
-                        <a href="#" class="btn btn-outline">Learn More</a>
+                        <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
                 </div>
 
@@ -120,7 +120,7 @@
                             <li><i class="fas fa-check"></i> Lighting solutions</li>
                             <li><i class="fas fa-check"></i> Brand storytelling</li>
                         </ul>
-                        <a href="#" class="btn btn-outline">Learn More</a>
+                        <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
                 </div>
 
@@ -139,7 +139,7 @@
                             <li><i class="fas fa-check"></i> Color & material guidance</li>
                             <li><i class="fas fa-check"></i> Budget planning</li>
                         </ul>
-                        <a href="#" class="btn btn-outline">Learn More</a>
+                        <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
                 </div>
 
@@ -157,7 +157,7 @@
                             <li><i class="fas fa-check"></i> 3D renderings</li>
                             <li><i class="fas fa-check"></i> Shopping lists</li>
                         </ul>
-                        <a href="#" class="btn btn-outline">Learn More</a>
+                        <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -244,7 +244,7 @@
                         </ul>
                     </div>
                     <div class="package-footer">
-                        <a href="contact.php" class="btn">Get Started</a>
+                        <a href="tel:+916361661047" class="btn">Get Started</a>
                     </div>
                 </div>
 
@@ -268,7 +268,7 @@
                         </ul>
                     </div>
                     <div class="package-footer">
-                        <a href="contact.php" class="btn">Get Started</a>
+                        <a href="tel:+916361661047" class="btn">Get Started</a>
                     </div>
                 </div>
 
@@ -291,7 +291,7 @@
                         </ul>
                     </div>
                     <div class="package-footer">
-                        <a href="contact.php" class="btn">Get Started</a>
+                        <a href="tel:+916361661047" class="btn">Get Started</a>
                     </div>
                 </div>
             </div>
@@ -391,7 +391,7 @@
             <h2>Ready to Transform Your Space?</h2>
             <p>Our team of expert designers is ready to bring your vision to life. Schedule a free consultation today to
                 discuss your project.</p>
-            <a href="contact.php" class="btn">Book a Consultation</a>
+            <a href="tel:+916361661047" class="btn">Book a Consultation</a>
         </div>
     </section>
 

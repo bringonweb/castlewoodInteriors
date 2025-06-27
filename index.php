@@ -33,8 +33,8 @@
                 <p>We create beautiful, functional spaces that reflect your personality and lifestyle. Our team of
                     expert designers will bring your vision to life.</p>
                 <div class="hero-btns">
-                    <a href="portfolio.php" class="btn btn-outline">View Portfolio</a>
-                    <a href="contact.php" class="btn">Get Free Consultation</a>
+                    <a href="services.php" class="btn btn-outline">View Portfolio</a>
+                    <a href="contact-us.php" class="btn">Get Free Consultation</a>
                 </div>
             </div>
 
@@ -121,7 +121,7 @@
 
             <div class="cta-box">
                 <p>Looking for a top interior designer in Bangalore?</p>
-                <a href="tel:9846532383" class="btn">Call 98465 32383 Today!</a>
+                <a href="tel:9846532383" class="btn">Call +91 63616 61047 Today!</a>
             </div>
         </div>
     </section>
@@ -231,7 +231,7 @@
                         <h3>Residential Design</h3>
                         <p>From cozy apartments to luxurious estates, we create homes that reflect your personality and
                             lifestyle.</p>
-                        <a href="#" class="btn">Learn More</a>
+                        <a href="services.php" class="btn">Learn More</a>
                     </div>
                 </div>
 
@@ -243,7 +243,7 @@
                         <h3>Commercial Design</h3>
                         <p>We design functional and inspiring workspaces that enhance productivity and brand identity.
                         </p>
-                        <a href="#" class="btn">Learn More</a>
+                        <a href="services.php" class="btn">Learn More</a>
                     </div>
                 </div>
 
@@ -255,7 +255,7 @@
                         <h3>Space Planning</h3>
                         <p>Optimize your space with our expert layout solutions that maximize functionality and flow.
                         </p>
-                        <a href="#" class="btn">Learn More</a>
+                        <a href="services.php" class="btn">Learn More</a>
                     </div>
                 </div>
             </div>
@@ -319,7 +319,7 @@
                 </div>
 
                 <div class="portfolio-item" data-category="residential">
-                    <img src="assests/index/p6  .webp" alt="Penthouse" class="portfolio-img" loading="lazy">
+                    <img src="assests/index/p6.webp" alt="Penthouse" class="portfolio-img" loading="lazy">
                     <div class="portfolio-overlay">
                         <h3>Penthouse</h3>
                         <p>Dubai, UAE</p>
@@ -384,7 +384,7 @@
             <h2>Ready to Transform Your Space?</h2>
             <p>Schedule a free consultation with one of our design experts today and take the first step toward your
                 dream space.</p>
-            <a href="contact.php" class="btn">Get Started</a>
+            <a href="tel:+916361661047" class="btn">Get Started</a>
         </div>
     </section>
     <?php include('partials/footer.php'); ?>

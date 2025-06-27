@@ -31,7 +31,7 @@
 
         <!-- Call Button -->
         <div class="call-button">
-            <a href="tel:" class="phone-link">
+            <a href="tel:+916361661047" class="phone-link">
                 <i class="fas fa-phone-alt"></i>
                 <span>Call Now</span>
             </a>

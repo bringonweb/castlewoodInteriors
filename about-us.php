@@ -52,7 +52,7 @@
                 <h1>Our Story</h1>
                 <p>Discover the passion and craftsmanship behind Castlewood Interiors. We transform spaces into
                     beautiful, functional environments that reflect your unique style.</p>
-                <a href="contact.php" class="btn">Get in Touch</a>
+                <a href="contact-us.php" class="btn">Get in Touch</a>
             </div>
         </div>
     </section>
@@ -308,7 +308,7 @@
             <h2>Ready to Transform Your Space?</h2>
             <p>Schedule a free consultation with one of our design experts today and take the first step toward your
                 dream space.</p>
-            <a href="contact.php" class="btn">Get Started</a>
+            <a href="tel:+916361661047" class="btn">Get Started</a>
         </div>
     </section>
     <?php include('partials/footer.php'); ?>

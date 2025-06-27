@@ -1,4 +1,4 @@
-<<footer>
+<footer>
     <div class="container">
         <div class="footer-container">
             <div class="footer-col">
@@ -43,11 +43,11 @@
                 <ul class="footer-contact">
                     <li>
                         <i class="fas fa-map-marker-alt"></i>
-                        <span>usa</span>
+                        <span>A-411, 17th Cross Rd, Begur, Bengaluru, Karnataka 560068</span>
                     </li>
                     <li>
                         <i class="fas fa-phone-alt"></i>
-                        <span>+1 0000000000</span>
+                        <span>+91 63616 61047</span>
                     </li>
                     <li>
                         <i class="fas fa-envelope"></i>
@@ -67,25 +67,25 @@
             <p>&copy; 2025 Castlewood Interiors. All Rights Reserved.</p>
         </div>
     </div>
-    </footer>
+</footer>
 
-    <style>
+<style>
+    .footer-logo {
+        margin-bottom: 20px;
+    }
+
+    .footer-logo img {
+        max-width: 275px;
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    /* Optional: center the logo on mobile */
+    @media (max-width: 768px) {
         .footer-logo {
-            margin-bottom: 20px;
+            display: flex;
+            justify-content: center;
         }
-
-        .footer-logo img {
-            max-width: 275px;
-            width: 100%;
-            height: auto;
-            display: block;
-        }
-
-        /* Optional: center the logo on mobile */
-        @media (max-width: 768px) {
-            .footer-logo {
-                display: flex;
-                justify-content: center;
-            }
-        }
-    </style>
+    }
+</style>

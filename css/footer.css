@@ -45,6 +45,7 @@ footer {
 
 .footer-links li {
     margin-bottom: 15px;
+    list-style: none;
 }
 
 .footer-links a {

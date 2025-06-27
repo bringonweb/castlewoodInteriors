@@ -33,9 +33,8 @@
         <div class="policy-content">
             <div class="policy-section">
                 <h2>1. Introduction</h2>
-                <p>Welcome to Castlewood Interiors ("Company", "we", "our", "us"). These Terms of Service ("Terms",
-                    "Terms of Service") govern your use of our website located at castlewoodinteriors.com (together or
-                    individually "Service") operated by Castlewood Interiors.</p>
+                <p>Welcome to Castlewood Interiors. These Terms of Service govern your use of our website located at
+                    castlewoodinteriors.com operated by Castlewood Interiors.</p>
                 <p>By accessing or using the Service, you agree to be bound by these Terms. If you disagree with any
                     part of the terms, then you may not access the Service.</p>
             </div>
