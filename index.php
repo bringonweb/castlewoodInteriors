@@ -83,8 +83,8 @@
             <div class="services-highlight">
                 <div class="services-row">
                     <div class="service-highlight">
-                        <i class="fas fa-tshirt"></i>
-                        <h4>Wardrobes</h4>
+                        <i class="fas fa-child"></i>
+                        <h4>Kids + Master Bedroom</h4>
                     </div>
                     <div class="service-highlight">
                         <i class="fas fa-utensils"></i>
@@ -114,15 +114,15 @@
                         <h4>Wall Paint</h4>
                     </div>
                     <div class="service-highlight">
-                        <i class="fas fa-child"></i>
-                        <h4>Kids Bedroom</h4>
+                        <i class="fas fa-tshirt"></i>
+                        <h4>Wardrobes</h4>
                     </div>
                 </div>
             </div>
 
             <div class="cta-box">
                 <p>Looking for a top interior designer in Bangalore?</p>
-                <a href="tel:9846532383" class="btn">Call +91 63616 61047 Today!</a>
+                <a href="tel:+916361661047" class="btn">Call Today +91 63616 61047</a>
             </div>
         </div>
     </section>
@@ -312,16 +312,7 @@
                         </div>
                     </div>
 
-                    <div class="feature-item">
-                        <div class="feature-icon">
-                            <i class="fas fa-broom"></i>
-                        </div>
-                        <div class="feature-text">
-                            <h4>Deep Cleaning After Work Completion</h4>
-                            <p>We design and deliver bespoke furniture, modular units, and curated decor to perfectly
-                                match your interiors.</p>
-                        </div>
-                    </div>
+
                     <div class="feature-item">
                         <div class="feature-icon">
                             <i class="fas fa-puzzle-piece"></i>
@@ -344,12 +335,22 @@
                     </div>
                     <div class="feature-item">
                         <div class="feature-icon">
+                            <i class="fas fa-broom"></i>
+                        </div>
+                        <div class="feature-text">
+                            <h4>Deep Cleaning After Work Completion</h4>
+                            <p>We ensure a spotless finish with deep cleaning after project completion, along with up to
+                                10 years of warranty on our bespoke furniture, modular units, and curated decor.</p>
+                        </div>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">
                             <i class="fas fa-hands-helping"></i>
                         </div>
                         <div class="feature-text">
                             <h4>Aftercare & Support </h4>
-                            <p>Our relationship doesn’t end with project handover. We offer post-completion assistance
-                                and support for any touch-ups or tweaks you need.</p>
+                            <p>Our commitment continues beyond project handover with up to 10 years of support for any
+                                updates or adjustments you need.</p>
                         </div>
                     </div>
                 </div>
@@ -439,7 +440,7 @@
                         a modern, functional space that we love spending time in. Their attention to detail is
                         unmatched."
                     </p>
-                    <h4 class="client-name">Sarah Johnson</h4>
+                    <h4 class="client-name">Priya Menon</h4>
                     <p class="client-designation">Homeowner</p>
                 </div>
 
@@ -449,8 +450,8 @@
                         our company culture while maximizing productivity. The project was completed on time and within
                         budget."
                     </p>
-                    <h4 class="client-name">Michael Chen</h4>
-                    <p class="client-designation">CEO, TechStart Inc.</p>
+                    <h4 class="client-name">Rohan Shetty</h4>
+                    <p class="client-designation">CEO</p>
                 </div>
 
                 <div class="testimonial-card">
@@ -458,7 +459,7 @@
                     <p>"I was hesitant about hiring an interior designer, but Castlewood made the process so easy. They
                         listened to my needs and delivered a kitchen design that's both beautiful and practical for my
                         family."</p>
-                    <h4 class="client-name">Priya Sharma</h4>
+                    <h4 class="client-name">Ananya Rao</h4>
                     <p class="client-designation">Homeowner</p>
                 </div>
 
@@ -466,7 +467,7 @@
                     <img src="assests/index/t4.jpg" alt="Client" class="client-img">
                     <p>"Our boutique hotel needed a complete redesign, and Castlewood delivered beyond our expectations.
                         The rooms are now frequently featured on Instagram by our guests!"</p>
-                    <h4 class="client-name">David Wilson</h4>
+                    <h4 class="client-name">Karthik Nair</h4>
                     <p class="client-designation">Hotel Manager</p>
                 </div>
             </div>

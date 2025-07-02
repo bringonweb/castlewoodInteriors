@@ -218,7 +218,7 @@
     </section>
 
     <!-- Service Packages -->
-    <section class="service-packages">
+    <!-- <section class="service-packages">
         <div class="container">
             <div class="section-title">
                 <h2>Our Service Packages</h2>
@@ -297,7 +297,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- FAQ Section -->
     <section class="service-faq">
