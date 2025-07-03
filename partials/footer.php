@@ -31,10 +31,10 @@
                 <h3>Services</h3>
                 <ul class="footer-links">
                     <li><a href="services.php">Residential Design</a></li>
-                    <li><a href="services.php">Commercial Design</a></li>
+                    <li><a href="services.php">Living Room Styling</a></li>
+                    <li><a href="services.php">Bedroom Interior Design</a></li>
+                    <li><a href="services.php">Modular Kitchen Designs</a></li>
                     <li><a href="services.php">Space Planning</a></li>
-                    <li><a href="services.php">Custom Furniture</a></li>
-                    <li><a href="services.php">Lighting Design</a></li>
                 </ul>
             </div>
 

@@ -126,9 +126,8 @@
                     <div class="service-icon">
                         <i class="fas fa-building"></i>
                     </div>
-                    <h3>Commercial Spaces</h3>
-                    <p>We design offices, retail spaces, and hospitality environments that enhance productivity and
-                        customer experience.</p>
+                    <h3>Modular Kitchen</h3>
+                    <p>We create functional and beautiful modular kitchens tailored to your cooking style and space.</p>
                 </div>
 
                 <div class="service-feature">
@@ -152,7 +151,6 @@
         </div>
     </section>
 
-    <!-- Why Choose Us Section -->
     <section class="why-choose-us">
         <div class="container">
             <div class="section-title">
@@ -201,16 +199,7 @@
                         </div>
                     </div>
 
-                    <div class="feature-item">
-                        <div class="feature-icon">
-                            <i class="fas fa-broom"></i>
-                        </div>
-                        <div class="feature-text">
-                            <h4>Deep Cleaning After Work Completion</h4>
-                            <p>We design and deliver bespoke furniture, modular units, and curated decor to perfectly
-                                match your interiors.</p>
-                        </div>
-                    </div>
+
                     <div class="feature-item">
                         <div class="feature-icon">
                             <i class="fas fa-puzzle-piece"></i>
@@ -233,12 +222,22 @@
                     </div>
                     <div class="feature-item">
                         <div class="feature-icon">
+                            <i class="fas fa-broom"></i>
+                        </div>
+                        <div class="feature-text">
+                            <h4>Deep Cleaning After Work Completion</h4>
+                            <p>We ensure a spotless finish with deep cleaning after project completion, along with up to
+                                10 years of warranty on our bespoke furniture, modular units, and curated decor.</p>
+                        </div>
+                    </div>
+                    <div class="feature-item">
+                        <div class="feature-icon">
                             <i class="fas fa-hands-helping"></i>
                         </div>
                         <div class="feature-text">
                             <h4>Aftercare & Support </h4>
-                            <p>Our relationship doesn’t end with project handover. We offer post-completion assistance
-                                and support for any touch-ups or tweaks you need.</p>
+                            <p>Our commitment continues beyond project handover with up to 10 years of support for any
+                                updates or adjustments you need.</p>
                         </div>
                     </div>
                 </div>
