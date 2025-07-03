@@ -80,7 +80,7 @@
                 <p>Discover how we can create stunning, personalized spaces for your home</p>
             </div>
 
-            <div class="services-highlight">
+            <!-- <div class="services-highlight">
                 <div class="services-row">
                     <div class="service-highlight">
                         <i class="fas fa-child"></i>
@@ -118,7 +118,75 @@
                         <h4>Wardrobes</h4>
                     </div>
                 </div>
+            </div> -->
+
+
+
+
+
+
+            <!-- HTML Services Section -->
+            <div class="services-highlight">
+                <div class="services-row">
+                    <div class="service-highlight" data-service="kids-bedroom">
+                        <i class="fas fa-child"></i>
+                        <h4>Kids + Master Bedroom</h4>
+                    </div>
+                    <div class="service-highlight" data-service="modular-kitchens">
+                        <i class="fas fa-utensils"></i>
+                        <h4>Modular Kitchens</h4>
+                    </div>
+                    <div class="service-highlight" data-service="sofa-decor">
+                        <i class="fas fa-couch"></i>
+                        <h4>Sofa & Decor</h4>
+                    </div>
+                    <div class="service-highlight" data-service="tv-units">
+                        <i class="fas fa-tv"></i>
+                        <h4>TV Units</h4>
+                    </div>
+                </div>
+
+                <div class="services-row">
+                    <div class="service-highlight" data-service="study-tables">
+                        <i class="fas fa-book"></i>
+                        <h4>Study Tables</h4>
+                    </div>
+                    <div class="service-highlight" data-service="wallpaper">
+                        <i class="fas fa-image"></i>
+                        <h4>Wallpaper</h4>
+                    </div>
+                    <div class="service-highlight" data-service="wall-paint">
+                        <i class="fas fa-paint-roller"></i>
+                        <h4>Wall Paint</h4>
+                    </div>
+                    <div class="service-highlight" data-service="wardrobes">
+                        <i class="fas fa-tshirt"></i>
+                        <h4>Wardrobes</h4>
+                    </div>
+                </div>
             </div>
+
+            <!-- Modal Structure -->
+            <div id="servicesModal" class="services-modal">
+                <div class="services-modal-content">
+                    <span class="services-modal-close">&times;</span>
+                    <div class="services-modal-header">
+                        <h3 id="modalServiceTitle">Service Title</h3>
+                    </div>
+                    <div class="services-modal-body" id="modalServiceImages">
+                        <!-- Images will be inserted here -->
+                    </div>
+                    <div class="services-modal-footer">
+                        Residential projects in Bangalore, India
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
 
             <div class="cta-box">
                 <p>Looking for a top interior designer in Bangalore?</p>
@@ -165,7 +233,7 @@
 
                 <div class="value-card">
                     <div class="value-icon">
-                        <i class="fas fa-rupee-sign"></i>
+                        <i class="fa fa-rupee-sign"></i>
                     </div>
                     <h3>Affordable</h3>
                     <p>Trusted interior design company that provides high-quality design solutions at affordable prices.
@@ -238,11 +306,11 @@
 
                 <div class="service-card">
                     <div class="service-img">
-                        <img src="assests/index/p4.webp" alt="Commercial Design" loading="lazy">
+                        <img src="assests/Modals/Modular_Kitchen_Designs/1.webp" alt="Commercial Design" loading="lazy">
                     </div>
                     <div class="service-content">
-                        <h3>Commercial Design</h3>
-                        <p>We design functional and inspiring workspaces that enhance productivity and brand identity.
+                        <h3>Modular Kitchen Solutions</h3>
+                        <p>We create functional and beautiful modular kitchens tailored to your cooking style and space.
                         </p>
                         <a href="services.php" class="btn">Learn More</a>
                     </div>
@@ -368,57 +436,85 @@
 
             <div class="portfolio-filter">
                 <button class="filter-btn active" data-filter="all">All</button>
-                <button class="filter-btn" data-filter="residential">Residential</button>
-                <button class="filter-btn" data-filter="commercial">Commercial</button>
-                <button class="filter-btn" data-filter="hospitality">Hospitality</button>
+                <button class="filter-btn" data-filter="residential">Bedrooms</button>
+                <button class="filter-btn" data-filter="commercial">Living rooms</button>
+                <button class="filter-btn" data-filter="hospitality">Kitchens</button>
             </div>
 
             <div class="portfolio-grid">
                 <div class="portfolio-item" data-category="residential">
-                    <img src="assests/index/p1.webp" alt="Modern Apartment" class="portfolio-img" loading="lazy">
+                    <img src="assests/Modals/Kids&MasterBedroom/4.webp" alt="Modern Apartment" class="portfolio-img"
+                        loading="lazy">
                     <div class="portfolio-overlay">
-                        <h3>Modern Apartment</h3>
-                        <p>New York, USA</p>
+                        <h3>Modern Bedroom</h3>
+                        <p>Sadashivanagar, Bangalore</p>
                     </div>
                 </div>
 
                 <div class="portfolio-item" data-category="commercial">
-                    <img src="assests/index/p2.webp" alt="Corporate Office" class="portfolio-img" loading="lazy">
+                    <img src="assests/index/h1.webp" alt="Corporate Office" class="portfolio-img" loading="lazy">
                     <div class="portfolio-overlay">
-                        <h3>Corporate Office</h3>
-                        <p>London, UK</p>
+                        <h3>Mordern Living Room</h3>
+                        <p>Richmond Town, Bangalore</p>
                     </div>
                 </div>
 
                 <div class="portfolio-item" data-category="residential">
-                    <img src="assests/index/h1.webp" alt="Luxury Villa" class="portfolio-img" loading="lazy">
+                    <img src="assests/Modals/Kids&MasterBedroom/6.webp" alt="Luxury Villa" class="portfolio-img"
+                        loading="lazy">
                     <div class="portfolio-overlay">
-                        <h3>Luxury Villa</h3>
-                        <p>Miami, USA</p>
+                        <h3>Luxury Bedroom</h3>
+                        <p>Bellandur, Bangalore</p>
                     </div>
                 </div>
 
-                <div class="portfolio-item" data-category="hospitality">
-                    <img src="assests/index/p4.webp" alt="Boutique Hotel" class="portfolio-img" loading="lazy">
+                <!-- <div class="portfolio-item" data-category="hospitality">
+                    <img src="assests/Modals/Modular_Kitchen_Designs/2.webp" alt="Boutique Hotel" class="portfolio-img"
+                        loading="lazy">
                     <div class="portfolio-overlay">
                         <h3>Boutique Hotel</h3>
                         <p>Paris, France</p>
                     </div>
                 </div>
+                <div class="portfolio-item" data-category="hospitality">
+                    <img src="assests/Modals/Modular_Kitchen_Designs/3.webp" alt="Boutique Hotel" class="portfolio-img"
+                        loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Boutique Hotel</h3>
+                        <p>Paris, France</p>
+                    </div>
+                </div> -->
+                <div class="portfolio-item" data-category="hospitality">
+                    <img src="assests/Modals/Modular_Kitchen_Designs/4.webp" alt="Boutique Hotel" class="portfolio-img"
+                        loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Kitchen</h3>
+                        <p>Benson Town, Bangalore</p>
+                    </div>
+                </div>
 
-                <div class="portfolio-item" data-category="commercial">
-                    <img src="assests/index/p5.webp" alt="Co-working Space" class="portfolio-img" loading="lazy">
+                <!-- <div class="portfolio-item" data-category="commercial">
+                    <img src="./assests/contact/contact.webp" alt="Co-working Space" class="portfolio-img"
+                        loading="lazy">
                     <div class="portfolio-overlay">
                         <h3>Co-working Space</h3>
                         <p>Berlin, Germany</p>
                     </div>
+                </div> -->
+                <div class="portfolio-item" data-category="commercial">
+                    <img src="assests/index/s3.webp" alt="Co-working Space" class="portfolio-img" loading="lazy">
+                    <div class="portfolio-overlay">
+                        <h3>Living Room</h3>
+                        <p>Benson Town, Bangalore</p>
+                    </div>
                 </div>
 
                 <div class="portfolio-item" data-category="residential">
-                    <img src="assests/index/p6.webp" alt="Penthouse" class="portfolio-img" loading="lazy">
+                    <img src="assests/Modals/Kids&MasterBedroom/2.webp" alt="Penthouse" class="portfolio-img"
+                        loading="lazy">
                     <div class="portfolio-overlay">
-                        <h3>Penthouse</h3>
-                        <p>Dubai, UAE</p>
+                        <h3>Modern Bedroom</h3>
+                        <p>Cooke Town, Bangalore</p>
                     </div>
                 </div>
             </div>

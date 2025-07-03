@@ -191,3 +191,133 @@ $('#consultationForm').on('submit', function (e) {
 $('input[name="phone"]').on('input', function () {
     $(this).val($(this).val().replace(/[^0-9]/g, ''));
 });
+
+
+
+
+
+
+// < !--JavaScript Section   model section-- >
+
+const serviceImages = {
+    'kids-bedroom': [
+        'assests/Modals/Kids&MasterBedroom/1.webp',
+        'assests/Modals/Kids&MasterBedroom/2.webp',
+        'assests/Modals/Kids&MasterBedroom/3.webp',
+        'assests/Modals/Kids&MasterBedroom/4.webp',
+        'assests/Modals/Kids&MasterBedroom/5.webp',
+        'assests/Modals/Kids&MasterBedroom/6.webp'
+    ],
+    'modular-kitchens': [
+        'assests/Modals/Modular_Kitchen_Designs/1.webp',
+        'assests/Modals/Modular_Kitchen_Designs/2.webp',
+        'assests/Modals/Modular_Kitchen_Designs/3.webp',
+        'assests/Modals/Modular_Kitchen_Designs/4.webp',
+        'assests/Modals/Modular_Kitchen_Designs/5.webp',
+        'assests/Modals/Modular_Kitchen_Designs/6.webp'
+    ],
+    'sofa-decor': [
+        'assests/Modals/Sofa_&_Decor_Collections/1.webp',
+        'assests/Modals/Sofa_&_Decor_Collections/2.webp',
+        'assests/Modals/Sofa_&_Decor_Collections/3.webp',
+        'assests/Modals/Sofa_&_Decor_Collections/4.webp',
+        'assests/Modals/Sofa_&_Decor_Collections/5.webp',
+        'assests/Modals/Sofa_&_Decor_Collections/6.webp'
+    ],
+    'tv-units': [
+        'assests/Modals/Study_Table_Designs/1.webp',
+        'assests/Modals/Study_Table_Designs/2.webp',
+        'assests/Modals/Study_Table_Designs/3.webp',
+        'assests/Modals/Study_Table_Designs/4.webp',
+        'assests/Modals/Study_Table_Designs/5.webp',
+        'assests/Modals/Study_Table_Designs/6.webp'
+    ],
+    'study-tables': [
+        'assests/Modals/TV/1.webp',
+        'assests/Modals/TV/2.webp',
+        'assests/Modals/TV/3.webp',
+        'assests/Modals/TV/4.webp',
+        'assests/Modals/TV/5.webp',
+        'assests/Modals/TV/6.webp'
+    ],
+    'wallpaper': [
+        'assests/Modals/WallpaperCollections/1.webp',
+        'assests/Modals/WallpaperCollections/2.webp',
+        'assests/Modals/WallpaperCollections/3.webp',
+        'assests/Modals/WallpaperCollections/4.jpg',
+        'assests/Modals/WallpaperCollections/5.webp',
+        'assests/Modals/WallpaperCollections/6.webp'
+    ],
+    'wall-paint': [
+        'assests/Modals/Wall_Paint/1.webp',
+        'assests/Modals/Wall_Paint/2.webp',
+        'assests/Modals/Wall_Paint/3.webp',
+        'assests/Modals/Wall_Paint/4.webp',
+        'assests/Modals/Wall_Paint/5.webp',
+        'assests/Modals/Wall_Paint/6.webp'
+    ],
+    'wardrobes': [
+        'assests/Modals/Wardrobe/1.webp',
+        'assests/Modals/Wardrobe/2.webp',
+        'assests/Modals/Wardrobe/3.webp',
+        'assests/Modals/Wardrobe/4.webp',
+        'assests/Modals/Wardrobe/5.webp',
+        'assests/Modals/Wardrobe/6.webp'
+    ]
+};
+
+const serviceTitles = {
+    'kids-bedroom': 'Kids & Master Bedroom Designs',
+    'modular-kitchens': 'Modular Kitchen Designs',
+    'sofa-decor': 'Sofa & Decor Collections',
+    'tv-units': 'TV Unit Designs',
+    'study-tables': 'Study Table Designs',
+    'wallpaper': 'Wallpaper Collections',
+    'wall-paint': 'Wall Paint Solutions',
+    'wardrobes': 'Wardrobe Designs'
+};
+
+const modal = document.getElementById('servicesModal');
+const modalTitle = document.getElementById('modalServiceTitle');
+const modalImages = document.getElementById('modalServiceImages');
+const closeBtn = document.querySelector('.services-modal-close');
+
+document.querySelectorAll('.service-highlight').forEach(service => {
+    service.addEventListener('click', function () {
+        const serviceType = this.getAttribute('data-service');
+        openModal(serviceType);
+    });
+});
+
+closeBtn.addEventListener('click', closeModal);
+
+window.addEventListener('click', function (event) {
+    if (event.target === modal) {
+        closeModal();
+    }
+});
+
+function openModal(serviceType) {
+    modalTitle.textContent = serviceTitles[serviceType] || serviceType.replace('-', ' ');
+    modalImages.innerHTML = '';
+
+    if (serviceImages[serviceType]) {
+        serviceImages[serviceType].forEach(imgSrc => {
+            const img = document.createElement('img');
+            img.src = imgSrc;
+            img.alt = serviceType.replace('-', ' ');
+            img.className = 'services-modal-image';
+            modalImages.appendChild(img);
+        });
+    }
+
+    modal.classList.add('show');
+    document.body.style.overflow = 'hidden';
+}
+
+function closeModal() {
+    modal.classList.remove('show');
+    document.body.style.overflow = 'auto';
+}
+
+
