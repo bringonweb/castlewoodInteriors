@@ -76,7 +76,7 @@ $(document).ready(function () {
 
     // Function to handle scroll animations
     function animateOnScroll() {
-        document.querySelectorAll('.hero-content, .about-img, .about-content, .service-card, .portfolio-item, .testimonial-card, .value-card, .service-highlight').forEach(element => {
+        document.querySelectorAll('.hero-content, .about-img, .service-card, .portfolio-item, .testimonial-card, .value-card, .service-highlight').forEach(element => {
             if (isInViewport(element)) {
                 element.style.opacity = '1';
                 element.style.transform = 'translateY(0)';
@@ -85,10 +85,10 @@ $(document).ready(function () {
     }
 
     // Set initial styles for animation
-    document.querySelectorAll('.hero-content, .about-img, .about-content, .service-card, .portfolio-item, .testimonial-card, .value-card, .service-highlight').forEach(element => {
+    document.querySelectorAll('.hero-content, .about-img,  .service-card, .portfolio-item, .testimonial-card, .value-card, .service-highlight').forEach(element => {
         element.style.opacity = '0';
         element.style.transform = 'translateY(30px)';
-        element.style.transition = 'all 0.6s ease';
+        element.style.transition = 'all 0.6s linear';
     });
 
     // Trigger animations when page loads
