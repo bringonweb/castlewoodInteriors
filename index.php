@@ -17,7 +17,7 @@
     <link rel="stylesheet" type="text/css"
         href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" />
     <link rel="stylesheet" href="css/common.css">
-    <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/header.css?v=1.0.1">
     <link rel="stylesheet" href="css/index.css?v=1.0.1">
     <link rel="stylesheet" href="css/footer.css">
 
