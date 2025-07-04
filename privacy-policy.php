@@ -93,11 +93,13 @@
 
             <div class="policy-section">
                 <h2>6. Service Providers</h2>
-                <p>We may employ third party companies and individuals to facilitate our Service ("Service Providers"),
-                    to provide the Service on our behalf, to perform Service-related services or to assist us in
-                    analyzing how our Service is used.</p>
-                <p>These third parties have access to your Personal Data only to perform these tasks on our behalf and
-                    are obligated not to disclose or use it for any other purpose.</p>
+                <p>We may employ third-party companies and individuals to facilitate our Service ("Service Providers"),
+                    to provide the Service on our behalf, to perform Service-related services, or to assist us in
+                    analyzing how our Service is used. These third parties have access to your Personal Data only to
+                    perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+                </p>
+                <p> All services provided by us, including those through our Service Providers, may come with up to 10
+                    years of warranty depending on the nature of the work delivered.</p>
             </div>
 
             <div class="policy-section">

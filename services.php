@@ -38,33 +38,32 @@
         <div class="container">
             <div class="section-title">
                 <h2>Our Interior Design Services</h2>
-                <p>Explore our comprehensive range of interior design services tailored for residential and commercial
+                <p>Explore our comprehensive range of interior design services tailored for Bedrooms and livingrooms
                     spaces</p>
             </div>
 
             <div class="category-tabs">
                 <button class="category-tab active" data-category="all">All Services</button>
-                <button class="category-tab" data-category="residential">Residential</button>
-                <button class="category-tab" data-category="commercial">Commercial</button>
-                <button class="category-tab" data-category="consultation">Consultation</button>
+                <button class="category-tab" data-category="residential">Bedrooms</button>
+                <button class="category-tab" data-category="commercial">Living rooms</button>
+                <button class="category-tab" data-category="consultation">Kitchens</button>
             </div>
 
             <div class="services-grid">
                 <!-- Residential Services -->
                 <div class="service-card" data-category="residential">
                     <div class="service-img">
-                        <img src="assests/services/p1.avif" alt="Full Home Design" loading="lazy">
-                        <div class="service-badge">Residential</div>
+                        <img src="assests/Modals/Kids&MasterBedroom/6.webp" alt="Full Home Design" loading="lazy">
+                        <div class="service-badge">Bedrooms</div>
                     </div>
                     <div class="service-content">
-                        <h3>Full Home Design</h3>
-                        <p>Complete interior design solutions for your entire home, creating cohesive and beautiful
-                            living spaces.</p>
+                        <h3>Luxury Bedroom Design</h3>
+                        <p>Redefine comfort with elegant and personalized bedroom interiors.</p>
                         <ul class="service-features">
-                            <li><i class="fas fa-check"></i> Space planning & layout</li>
-                            <li><i class="fas fa-check"></i> Material & finish selection</li>
-                            <li><i class="fas fa-check"></i> Custom furniture design</li>
-                            <li><i class="fas fa-check"></i> Lighting design</li>
+                            <li><i class="fas fa-check"></i> Custom bed & wardrobes</li>
+                            <li><i class="fas fa-check"></i> Accent walls & lighting</li>
+                            <li><i class="fas fa-check"></i> Premium finishes</li>
+                            <li><i class="fas fa-check"></i> Personalized decor</li>
                         </ul>
                         <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
@@ -72,17 +71,17 @@
 
                 <div class="service-card" data-category="residential">
                     <div class="service-img">
-                        <img src="assests/services/p2.jpg" alt="Kitchen Design" loading="lazy">
-                        <div class="service-badge">Residential</div>
+                        <img src="assests/Modals/Kids&MasterBedroom/4.webp" alt="Kitchen Design" loading="lazy">
+                        <div class="service-badge">Bedrooms</div>
                     </div>
                     <div class="service-content">
-                        <h3>Kitchen Design</h3>
-                        <p>Beautiful and functional kitchen designs that combine aesthetics with practicality.</p>
+                        <h3>Smart Bedroom Setup</h3>
+                        <p>Stylish, space-efficient designs built for modern living.</p>
                         <ul class="service-features">
-                            <li><i class="fas fa-check"></i> Modular kitchen planning</li>
-                            <li><i class="fas fa-check"></i> Cabinet design & material selection</li>
-                            <li><i class="fas fa-check"></i> Countertop solutions</li>
-                            <li><i class="fas fa-check"></i> Appliance integration</li>
+                            <li><i class="fas fa-check"></i> Modular storage</li>
+                            <li><i class="fas fa-check"></i> Space-saving furniture</li>
+                            <li><i class="fas fa-check"></i> Sliding wardrobes</li>
+                            <li><i class="fas fa-check"></i> Calming color schemes</li>
                         </ul>
                         <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
@@ -91,17 +90,17 @@
                 <!-- Commercial Services -->
                 <div class="service-card" data-category="commercial">
                     <div class="service-img">
-                        <img src="assests/services/p3.jpg" alt="Office Design" loading="lazy">
-                        <div class="service-badge">Commercial</div>
+                        <img src="assests/index/h1.webp" alt="Office Design" loading="lazy">
+                        <div class="service-badge">Living rooms</div>
                     </div>
                     <div class="service-content">
-                        <h3>Office Design</h3>
-                        <p>Productive and inspiring work environments that reflect your company's brand and culture.</p>
+                        <h3>Elegant Living Room</h3>
+                        <p>Create stylish, welcoming spaces that balance comfort and class.</p>
                         <ul class="service-features">
-                            <li><i class="fas fa-check"></i> Workspace planning</li>
-                            <li><i class="fas fa-check"></i> Reception & meeting areas</li>
-                            <li><i class="fas fa-check"></i> Acoustics & lighting</li>
-                            <li><i class="fas fa-check"></i> Brand integration</li>
+                            <li><i class="fas fa-check"></i> Layout & seating design</li>
+                            <li><i class="fas fa-check"></i> Accent walls & lighting</li>
+                            <li><i class="fas fa-check"></i> Custom TV unit & storage</li>
+                            <li><i class="fas fa-check"></i> Cozy ambience setup</li>
                         </ul>
                         <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
@@ -109,17 +108,17 @@
 
                 <div class="service-card" data-category="commercial">
                     <div class="service-img">
-                        <img src="assests/services/p4.jpg" alt="Retail Design" loading="lazy">
-                        <div class="service-badge">Commercial</div>
+                        <img src="assests/index/s3.webp" alt="Retail Design" loading="lazy">
+                        <div class="service-badge">Living rooms</div>
                     </div>
                     <div class="service-content">
-                        <h3>Retail Design</h3>
-                        <p>Captivating retail spaces that enhance customer experience and drive sales.</p>
+                        <h3>Modern Living Space</h3>
+                        <p>Smart, functional designs that elevate everyday living.</p>
                         <ul class="service-features">
-                            <li><i class="fas fa-check"></i> Store layout & flow</li>
-                            <li><i class="fas fa-check"></i> Display & fixture design</li>
-                            <li><i class="fas fa-check"></i> Lighting solutions</li>
-                            <li><i class="fas fa-check"></i> Brand storytelling</li>
+                            <li><i class="fas fa-check"></i> Space-saving furniture</li>
+                            <li><i class="fas fa-check"></i> Modular entertainment setup</li>
+                            <li><i class="fas fa-check"></i> Layered lighting</li>
+                            <li><i class="fas fa-check"></i> Functional flow planning</li>
                         </ul>
                         <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
@@ -128,17 +127,18 @@
                 <!-- Consultation Services -->
                 <div class="service-card" data-category="consultation">
                     <div class="service-img">
-                        <img src="assests/services/p5.jpg" alt="Design Consultation" loading="lazy">
-                        <div class="service-badge">Consultation</div>
+                        <img src="assests/Modals/Modular_Kitchen_Designs/4.webp" alt="Design Consultation"
+                            loading="lazy">
+                        <div class="service-badge">Kitchens</div>
                     </div>
                     <div class="service-content">
-                        <h3>Design Consultation</h3>
-                        <p>Expert advice to help you make informed decisions about your interior design project.</p>
+                        <h3>Modular Kitchen</h3>
+                        <p>Stylish, functional kitchen layouts tailored to your lifestyle.</p>
                         <ul class="service-features">
-                            <li><i class="fas fa-check"></i> Personalized design advice</li>
-                            <li><i class="fas fa-check"></i> Space evaluation</li>
-                            <li><i class="fas fa-check"></i> Color & material guidance</li>
-                            <li><i class="fas fa-check"></i> Budget planning</li>
+                            <li><i class="fas fa-check"></i> Smart storage units</li>
+                            <li><i class="fas fa-check"></i> Sleek countertop finishes</li>
+                            <li><i class="fas fa-check"></i> Modern cabinet designs</li>
+                            <li><i class="fas fa-check"></i> Space-optimized layout</li>
                         </ul>
                         <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
@@ -146,17 +146,17 @@
 
                 <div class="service-card" data-category="consultation">
                     <div class="service-img">
-                        <img src="assests/services/p6.jpg" alt="Virtual Design" loading="lazy">
-                        <div class="service-badge">Consultation</div>
+                        <img src="assests/Modals/Modular_Kitchen_Designs/6.webp" alt="Virtual Design" loading="lazy">
+                        <div class="service-badge">Kitchens</div>
                     </div>
                     <div class="service-content">
-                        <h3>Virtual Design</h3>
-                        <p>Professional interior design services delivered remotely for your convenience.</p>
+                        <h3>Premium Kitchen Setup</h3>
+                        <p>Elegant and efficient kitchen interiors using top-grade materials.</p>
                         <ul class="service-features">
-                            <li><i class="fas fa-check"></i> Online consultations</li>
-                            <li><i class="fas fa-check"></i> Digital mood boards</li>
-                            <li><i class="fas fa-check"></i> 3D renderings</li>
-                            <li><i class="fas fa-check"></i> Shopping lists</li>
+                            <li><i class="fas fa-check"></i> Customized layout planning</li>
+                            <li><i class="fas fa-check"></i> Luxury fittings & accessories</li>
+                            <li><i class="fas fa-check"></i> Designer backsplash options</li>
+                            <li><i class="fas fa-check"></i> Soft-close drawers & units</li>
                         </ul>
                         <a href="tel:+916361661047" class="btn btn-outline">Learn More</a>
                     </div>
@@ -164,6 +164,9 @@
             </div>
         </div>
     </section>
+
+
+
 
     <!-- Service Process -->
     <section class="service-process">
@@ -299,6 +302,160 @@
         </div>
     </section> -->
 
+    <!-- Add this section to your services.php page where you want the package to appear -->
+    <div class="service-package-section">
+        <div class="package-container">
+            <div class="package-header">
+                <h3>Exclusive Service Package</h3>
+                <div class="package-price">₹3,99,999 <span>Only</span></div>
+            </div>
+            <div class="package-features">
+                <ul>
+                    <li><i class="fas fa-check-circle"></i> Complete Interior Design Solution</li>
+                    <li><i class="fas fa-check-circle"></i> Living Room, Bedroom & Kitchen Design</li>
+                    <li><i class="fas fa-check-circle"></i> Premium Quality Materials</li>
+                    <li><i class="fas fa-check-circle"></i> End-to-End Project Management</li>
+                    <li><i class="fas fa-check-circle"></i> 3D Visualization & Layout Plans</li>
+                    <li><i class="fas fa-check-circle"></i> 12 Months Post-Completion Support</li>
+                </ul>
+            </div>
+            <div class="package-cta">
+                <a href="contact-us.php" class="package-button">Get a Quote</a>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        /* Service Package Specific Styles - Won't affect other pages */
+        .service-package-section {
+            padding: 40px 0;
+            background-color: #f9f9f9;
+            margin: 30px 0;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .service-package-section .package-container {
+            max-width: 850px;
+            margin: 0 auto;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+            border: 1px solid #e1e1e1;
+        }
+
+        .service-package-section .package-header {
+            background: #a88802;
+            color: white;
+            padding: 25px 30px;
+            text-align: center;
+        }
+
+        .service-package-section .package-header h3 {
+            margin: 0;
+            font-size: 24px;
+            font-weight: 600;
+            color: #fff;
+        }
+
+        .service-package-section .package-price {
+            font-size: 36px;
+            font-weight: 700;
+            margin: 10px 0 0;
+            color: white;
+        }
+
+        .service-package-section .package-price span {
+            display: block;
+            font-size: 16px;
+            font-weight: 400;
+            color: rgba(255, 255, 255, 0.8);
+            margin-top: 5px;
+        }
+
+        .service-package-section .package-features {
+            padding: 30px;
+        }
+
+        .service-package-section .package-features ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .service-package-section .package-features li {
+            padding: 10px 0;
+            font-size: 16px;
+            color: #333;
+            border-bottom: 1px dashed #e1e1e1;
+            display: flex;
+            align-items: center;
+        }
+
+        .service-package-section .package-features li:last-child {
+            border-bottom: none;
+        }
+
+        .service-package-section .package-features i {
+            color: #a88802;
+            margin-right: 10px;
+            font-size: 18px;
+        }
+
+        .service-package-section .package-cta {
+            padding: 0 30px 30px;
+            text-align: center;
+        }
+
+        .service-package-section .package-button {
+            display: inline-block;
+            background: #a88802;
+            color: white;
+            padding: 12px 30px;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            border: 2px solid #a88802;
+        }
+
+        .service-package-section .package-button:hover {
+            background: transparent;
+            color: #a88802;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .service-package-section {
+                padding: 30px 15px;
+            }
+
+            .service-package-section .package-header {
+                padding: 20px 15px;
+            }
+
+            .service-package-section .package-header h3 {
+                font-size: 20px;
+            }
+
+            .service-package-section .package-price {
+                font-size: 28px;
+            }
+
+            .service-package-section .package-features {
+                padding: 20px 15px;
+            }
+
+            .service-package-section .package-features li {
+                font-size: 15px;
+            }
+        }
+
+        /* Make sure Font Awesome is included for icons */
+    </style>
+
+    <!-- Add this before </head> if not already present -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     <!-- FAQ Section -->
     <section class="service-faq">
         <div class="container">

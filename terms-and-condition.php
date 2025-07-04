@@ -45,7 +45,7 @@
                 <p>Castlewood Interiors provides interior design services including but not limited to:</p>
                 <ul>
                     <li>Residential interior design</li>
-                    <li>Commercial interior design</li>
+                    <li>Bedroom interior design</li>
                     <li>Space planning and consultation</li>
                     <li>Custom furniture design</li>
                     <li>Project management</li>
