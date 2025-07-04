@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/header.css">
+<link rel="stylesheet" href="css/header.css?v=1.0.1">
 <!-- <script defer src="js/header.js"></script> -->
 
 <header id="header">
