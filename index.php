@@ -531,7 +531,7 @@
 
             <div class="testimonials-slider">
                 <div class="testimonial-card">
-                    <img src="assests/index/t1.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/t1.1.jpg" alt="Client" class="client-img">
                     <p>"Working with Castlewood was an absolute pleasure. They transformed our outdated living room into
                         a modern, functional space that we love spending time in. Their attention to detail is
                         unmatched."
@@ -541,7 +541,7 @@
                 </div>
 
                 <div class="testimonial-card">
-                    <img src="assests/index/t2.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/t2.1.jpg" alt="Client" class="client-img">
                     <p>"The team at Castlewood understood our brand perfectly and created an office space that reflects
                         our company culture while maximizing productivity. The project was completed on time and within
                         budget."
@@ -551,7 +551,7 @@
                 </div>
 
                 <div class="testimonial-card">
-                    <img src="assests/index/t3.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/t3.1.jpg" alt="Client" class="client-img">
                     <p>"I was hesitant about hiring an interior designer, but Castlewood made the process so easy. They
                         listened to my needs and delivered a kitchen design that's both beautiful and practical for my
                         family."</p>
@@ -560,7 +560,7 @@
                 </div>
 
                 <div class="testimonial-card">
-                    <img src="assests/index/t4.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/t4.1.jpg" alt="Client" class="client-img">
                     <p>"Our boutique hotel needed a complete redesign, and Castlewood delivered beyond our expectations.
                         The rooms are now frequently featured on Instagram by our guests!"</p>
                     <h4 class="client-name">Karthik Nair</h4>
