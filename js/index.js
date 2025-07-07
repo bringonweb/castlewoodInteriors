@@ -225,20 +225,20 @@ const serviceImages = {
         'assests/Modals/Sofa_&_Decor_Collections/6.webp'
     ],
     'tv-units': [
-        'assests/Modals/Study_Table_Designs/1.webp',
-        'assests/Modals/Study_Table_Designs/2.webp',
-        'assests/Modals/Study_Table_Designs/3.webp',
-        'assests/Modals/Study_Table_Designs/4.webp',
-        'assests/Modals/Study_Table_Designs/5.webp',
-        'assests/Modals/Study_Table_Designs/6.webp'
-    ],
-    'study-tables': [
         'assests/Modals/TV/1.webp',
         'assests/Modals/TV/2.webp',
         'assests/Modals/TV/3.webp',
         'assests/Modals/TV/4.webp',
         'assests/Modals/TV/5.webp',
         'assests/Modals/TV/6.webp'
+    ],
+    'study-tables': [
+        'assests/Modals/Study_Table_Designs/1.webp',
+        'assests/Modals/Study_Table_Designs/2.webp',
+        'assests/Modals/Study_Table_Designs/3.webp',
+        'assests/Modals/Study_Table_Designs/4.webp',
+        'assests/Modals/Study_Table_Designs/5.webp',
+        'assests/Modals/Study_Table_Designs/6.webp'
     ],
     'wallpaper': [
         'assests/Modals/WallpaperCollections/1.webp',

@@ -127,7 +127,7 @@
                         <i class="fas fa-building"></i>
                     </div>
                     <h3>Modular Kitchen</h3>
-                    <p>We create functional and beautiful modular kitchens tailored to your cooking style and space.</p>
+                    <p>We create functional and beautiful modular kitchen tailored to your cooking style and space.</p>
                 </div>
 
                 <div class="service-feature">
@@ -143,7 +143,7 @@
                     <div class="service-icon">
                         <i class="fas fa-palette"></i>
                     </div>
-                    <h3>Custom Interiors</h3>
+                    <h3>Custom Interior</h3>
                     <p>Tailored solutions including custom furniture, lighting, and decor elements designed specifically
                         for your space.</p>
                 </div>

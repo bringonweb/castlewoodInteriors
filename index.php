@@ -134,7 +134,7 @@
                     </div>
                     <div class="service-highlight" data-service="modular-kitchens">
                         <i class="fas fa-utensils"></i>
-                        <h4>Modular Kitchens</h4>
+                        <h4>Modular Kitchen</h4>
                     </div>
                     <div class="service-highlight" data-service="sofa-decor">
                         <i class="fas fa-couch"></i>
@@ -149,7 +149,7 @@
                 <div class="services-row">
                     <div class="service-highlight" data-service="study-tables">
                         <i class="fas fa-book"></i>
-                        <h4>Study Tables</h4>
+                        <h4>Study Table</h4>
                     </div>
                     <div class="service-highlight" data-service="wallpaper">
                         <i class="fas fa-image"></i>
@@ -161,7 +161,7 @@
                     </div>
                     <div class="service-highlight" data-service="wardrobes">
                         <i class="fas fa-tshirt"></i>
-                        <h4>Wardrobes</h4>
+                        <h4>Wardrobe</h4>
                     </div>
                 </div>
             </div>
@@ -233,7 +233,7 @@
 
                 <div class="value-card">
                     <div class="value-icon">
-                        <i class="fa fa-rupee-sign"></i>
+                        <i class="fa-solid fa-indian-rupee-sign"></i>
                     </div>
                     <h3>Affordable</h3>
                     <p>Trusted interior design company that provides high-quality design solutions at affordable prices.
@@ -309,7 +309,7 @@
                         <img src="assests/Modals/Modular_Kitchen_Designs/1.webp" alt="Commercial Design" loading="lazy">
                     </div>
                     <div class="service-content">
-                        <h3>Modular Kitchen Solutions</h3>
+                        <h3>Modular Kitchen Solution</h3>
                         <p>We create functional and beautiful modular kitchens tailored to your cooking style and space.
                         </p>
                         <a href="services.php" class="btn">Learn More</a>
@@ -436,9 +436,9 @@
 
             <div class="portfolio-filter">
                 <button class="filter-btn active" data-filter="all">All</button>
-                <button class="filter-btn" data-filter="residential">Bedrooms</button>
-                <button class="filter-btn" data-filter="commercial">Living rooms</button>
-                <button class="filter-btn" data-filter="hospitality">Kitchens</button>
+                <button class="filter-btn" data-filter="residential">Bedroom</button>
+                <button class="filter-btn" data-filter="commercial">Living room</button>
+                <button class="filter-btn" data-filter="hospitality">Kitchen</button>
             </div>
 
             <div class="portfolio-grid">

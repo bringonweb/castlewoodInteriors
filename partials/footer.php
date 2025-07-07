@@ -33,7 +33,7 @@
                     <li><a href="services.php">Residential Design</a></li>
                     <li><a href="services.php">Living Room Styling</a></li>
                     <li><a href="services.php">Bedroom Interior Design</a></li>
-                    <li><a href="services.php">Modular Kitchen Designs</a></li>
+                    <li><a href="services.php">Modular Kitchen Design</a></li>
                     <li><a href="services.php">Space Planning</a></li>
                 </ul>
             </div>
