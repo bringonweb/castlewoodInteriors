@@ -38,15 +38,15 @@
         <div class="container">
             <div class="section-title">
                 <h2>Our Interior Design Services</h2>
-                <p>Explore our comprehensive range of interior design services tailored for Bedrooms and livingrooms
+                <p>Explore our comprehensive range of interior design services tailored for Bedroom and livingrooms
                     spaces</p>
             </div>
 
             <div class="category-tabs">
                 <button class="category-tab active" data-category="all">All Services</button>
-                <button class="category-tab" data-category="residential">Bedrooms</button>
-                <button class="category-tab" data-category="commercial">Living rooms</button>
-                <button class="category-tab" data-category="consultation">Kitchens</button>
+                <button class="category-tab" data-category="residential">Bedroom</button>
+                <button class="category-tab" data-category="commercial">Living room</button>
+                <button class="category-tab" data-category="consultation">Kitchen</button>
             </div>
 
             <div class="services-grid">
@@ -54,7 +54,7 @@
                 <div class="service-card" data-category="residential">
                     <div class="service-img">
                         <img src="assests/Modals/Kids&MasterBedroom/6.webp" alt="Full Home Design" loading="lazy">
-                        <div class="service-badge">Bedrooms</div>
+                        <div class="service-badge">Bedroom</div>
                     </div>
                     <div class="service-content">
                         <h3>Luxury Bedroom Design</h3>
@@ -72,7 +72,7 @@
                 <div class="service-card" data-category="residential">
                     <div class="service-img">
                         <img src="assests/Modals/Kids&MasterBedroom/4.webp" alt="Kitchen Design" loading="lazy">
-                        <div class="service-badge">Bedrooms</div>
+                        <div class="service-badge">Bedroom</div>
                     </div>
                     <div class="service-content">
                         <h3>Smart Bedroom Setup</h3>
@@ -91,7 +91,7 @@
                 <div class="service-card" data-category="commercial">
                     <div class="service-img">
                         <img src="assests/index/h1.webp" alt="Office Design" loading="lazy">
-                        <div class="service-badge">Living rooms</div>
+                        <div class="service-badge">Living room</div>
                     </div>
                     <div class="service-content">
                         <h3>Elegant Living Room</h3>
@@ -109,7 +109,7 @@
                 <div class="service-card" data-category="commercial">
                     <div class="service-img">
                         <img src="assests/index/s3.webp" alt="Retail Design" loading="lazy">
-                        <div class="service-badge">Living rooms</div>
+                        <div class="service-badge">Living room</div>
                     </div>
                     <div class="service-content">
                         <h3>Modern Living Space</h3>
@@ -129,7 +129,7 @@
                     <div class="service-img">
                         <img src="assests/Modals/Modular_Kitchen_Designs/4.webp" alt="Design Consultation"
                             loading="lazy">
-                        <div class="service-badge">Kitchens</div>
+                        <div class="service-badge">Kitchen</div>
                     </div>
                     <div class="service-content">
                         <h3>Modular Kitchen</h3>
@@ -147,7 +147,7 @@
                 <div class="service-card" data-category="consultation">
                     <div class="service-img">
                         <img src="assests/Modals/Modular_Kitchen_Designs/6.webp" alt="Virtual Design" loading="lazy">
-                        <div class="service-badge">Kitchens</div>
+                        <div class="service-badge">Kitchen</div>
                     </div>
                     <div class="service-content">
                         <h3>Premium Kitchen Setup</h3>
