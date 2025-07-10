@@ -67,7 +67,7 @@
                 </div>
                 <div class="intro-content">
                     <h2>Who We Are</h2>
-                    <p>Founded in 2010, Castlewood Interiors has been transforming spaces across the country with our
+                    <p>Castlewood Interiors has been transforming spaces across the country with our
                         unique blend of contemporary and classic design elements. Our philosophy is simple: great design
                         should be accessible to everyone.</p>
                     <p>We work closely with our clients to understand their needs, preferences, and lifestyle to create

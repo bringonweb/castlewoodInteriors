@@ -252,14 +252,14 @@
                 </div>
                 <div class="about-content">
                     <h2>About Castlewood Interiors</h2>
-                    <p>Founded in 2010, Castlewood Interiors has been transforming spaces across the country with our
+                    <p>Castlewood Interiors has been transforming spaces across the country with our
                         unique blend of contemporary and classic design elements.</p>
                     <p>Our philosophy is simple: great design should be accessible to everyone. We work closely with our
                         clients to understand their needs, preferences, and lifestyle to create spaces that are both
                         beautiful and functional.</p>
 
                     <div class="about-features">
-                        <div class="feature-item">
+                        <!-- <div class="feature-item">
                             <div class="feature-icon">
                                 <i class="fas fa-award"></i>
                             </div>
@@ -267,14 +267,14 @@
                                 <h4>Award Winning</h4>
                                 <p>Recognized by International Design Awards for excellence in residential design.</p>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="feature-item">
                             <div class="feature-icon">
                                 <i class="fas fa-users"></i>
                             </div>
                             <div class="feature-text">
-                                <h4>500+ Happy Clients</h4>
-                                <p>We've transformed homes and businesses for over 500 satisfied clients.</p>
+                                <h4>50+ Happy Clients</h4>
+                                <p>Experience of transforming homes for 50+ customers annually</p>
                             </div>
                         </div>
                     </div>
@@ -522,7 +522,7 @@
     </section>
 
     <!-- Testimonials Section -->
-    <section class="testimonials">
+    <!-- <section class="testimonials">
         <div class="container">
             <div class="section-title">
                 <h2>What Our Clients Say</h2>
@@ -531,7 +531,7 @@
 
             <div class="testimonials-slider">
                 <div class="testimonial-card">
-                    <img src="assests/index/t1.1.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/1.png" alt="Client" class="client-img">
                     <p>"Working with Castlewood was an absolute pleasure. They transformed our outdated living room into
                         a modern, functional space that we love spending time in. Their attention to detail is
                         unmatched."
@@ -541,7 +541,7 @@
                 </div>
 
                 <div class="testimonial-card">
-                    <img src="assests/index/t2.1.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/2.png" alt="Client" class="client-img">
                     <p>"The team at Castlewood understood our brand perfectly and created an office space that reflects
                         our company culture while maximizing productivity. The project was completed on time and within
                         budget."
@@ -551,7 +551,7 @@
                 </div>
 
                 <div class="testimonial-card">
-                    <img src="assests/index/t3.1.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/3.png" alt="Client" class="client-img">
                     <p>"I was hesitant about hiring an interior designer, but Castlewood made the process so easy. They
                         listened to my needs and delivered a kitchen design that's both beautiful and practical for my
                         family."</p>
@@ -560,11 +560,78 @@
                 </div>
 
                 <div class="testimonial-card">
-                    <img src="assests/index/t4.1.jpg" alt="Client" class="client-img">
+                    <img src="assests/index/4.png" alt="Client" class="client-img">
                     <p>"Our boutique hotel needed a complete redesign, and Castlewood delivered beyond our expectations.
                         The rooms are now frequently featured on Instagram by our guests!"</p>
                     <h4 class="client-name">Karthik Nair</h4>
                     <p class="client-designation">Hotel Manager</p>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <!-- Testimonials Section -->
+    <section class="testimonials">
+        <div class="container">
+            <div class="section-title">
+                <h2>What Our Clients Say</h2>
+                <p>Hear from our satisfied clients about their experience working with Castlewood Interiors.</p>
+            </div>
+
+            <div class="testimonials-slider">
+                <div class="testimonial-card">
+                    <img src="assests/index/1.png" alt="Client" class="client-img">
+                    <p>"Castlewood Interiors brought our vision to life with elegance and precision. Their team was
+                        professional, responsive, and extremely creative."</p>
+                    <h4 class="client-name">Hina Ishaan</h4>
+                    <!-- <p class="client-designation">Homeowner</p> -->
+                </div>
+
+                <div class="testimonial-card">
+                    <img src="assests/index/4.png" alt="Client" class="client-img">
+                    <p>"From concept to execution, every detail was handled with care. Our new lounge area is now the
+                        highlight of our office!"</p>
+                    <h4 class="client-name">Hrishabh Dey</h4>
+                    <!-- <p class="client-designation">Startup Founder</p> -->
+                </div>
+
+                <div class="testimonial-card">
+                    <img src="assests/index/2.png" alt="Client" class="client-img">
+                    <p>"I was amazed by their dedication to understanding our needs. Castlewood made our living room
+                        warm and inviting while keeping it functional."</p>
+                    <h4 class="client-name">Arun Kumar</h4>
+                    <!-- <p class="client-designation">Engineer</p> -->
+                </div>
+
+                <div class="testimonial-card">
+                    <img src="assests/index/7.png" alt="Client" class="client-img">
+                    <p>"Every space designed by Castlewood is a masterpiece. They managed to turn a dull space into
+                        something truly spectacular."</p>
+                    <h4 class="client-name">Thomas Koshy and Manju Thomas</h4>
+                    <!-- <p class="client-designation">Business Owner</p> -->
+                </div>
+
+                <div class="testimonial-card">
+                    <img src="assests/index/5.png" alt="Client" class="client-img">
+                    <p>"Castlewood Interiors added a luxurious touch to our vacation home without compromising on
+                        comfort. Truly exceptional!"</p>
+                    <h4 class="client-name">Koshy Vaidhyan and Thresia Koshy</h4>
+                    <!-- <p class="client-designation">Entrepreneur</p> -->
+                </div>
+
+                <div class="testimonial-card">
+                    <img src="assests/index/3.png" alt="Client" class="client-img">
+                    <p>"Their design process was very collaborative, and the final results were stunning. My apartment
+                        finally feels like home!"</p>
+                    <h4 class="client-name">Sharuq Azeez</h4>
+                    <!-- <p class="client-designation">Freelancer</p> -->
+                </div>
+
+                <div class="testimonial-card">
+                    <img src="assests/index/8.png" alt="Client" class="client-img">
+                    <p>"Castlewood reimagined our workspace beautifully. It’s both inspiring and practical—our team
+                        loves it!"</p>
+                    <h4 class="client-name">Imtiyaz Qadri and Minu Imtiyaz Qadri</h4>
+                    <!-- <p class="client-designation">Marketing Director</p> -->
                 </div>
             </div>
         </div>
