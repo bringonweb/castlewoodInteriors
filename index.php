@@ -622,7 +622,7 @@
                     <img src="assests/index/3.png" alt="Client" class="client-img">
                     <p>"Their design process was very collaborative, and the final results were stunning. My apartment
                         finally feels like home!"</p>
-                    <h4 class="client-name">Sharuq Azeez</h4>
+                    <h4 class="client-name">Naveen Kalgania</h4>
                     <!-- <p class="client-designation">Freelancer</p> -->
                 </div>
 
