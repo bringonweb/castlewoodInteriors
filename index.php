@@ -614,7 +614,7 @@
                     <img src="assests/index/5.png" alt="Client" class="client-img">
                     <p>"Castlewood Interiors added a luxurious touch to our vacation home without compromising on
                         comfort. Truly exceptional!"</p>
-                    <h4 class="client-name">Koshy Vaidhyan and Thresia Koshy</h4>
+                    <h4 class="client-name">Koshy Vaidyan and Thresia Koshy</h4>
                     <!-- <p class="client-designation">Entrepreneur</p> -->
                 </div>
 
